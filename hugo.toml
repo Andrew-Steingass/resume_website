@@ -1,7 +1,7 @@
 baseURL = "https://andrew-steingass.github.io/resume_website/"
 canonifyURLs = true ## IMPORTANT!
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Andy Steingass | Developer & Architect'
 theme = "resume"
 
 [params]
