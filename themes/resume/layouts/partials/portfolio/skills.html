@@ -1,0 +1,16 @@
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+  <div class="w-100">
+    <h2 class="mb-5">{{ .Site.Params.skills.title }}</h2>
+    {{ range .Site.Params.skills.list }}
+      <div class="subheading mb-3">{{ .title }}</div>
+      <ul class="list-inline dev-icons">
+        {{ range $skill := split .description ", " }}
+          <li class="list-inline-item">
+            <i class="fab fa-{{ $skill | urlize }}"></i>
+            {{ $skill }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</section>

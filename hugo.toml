@@ -1,0 +1,58 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "resume"
+[params]
+  firstName = "Andrew"
+  lastName = "Steingass"
+  address = "Peoria, IL"
+  phone = "(219) 242-2614"
+  email = "AndrewSteingass@gmail.com"
+  linkedin = "https://linkedin.com/in/asteingass"
+  github = "https://github.com/Andrew-Steingass"
+
+  profileImage = "images/HeadShot.jpg"
+  extraInfo = "Data Engineer | Data Scientist | Data Architect | Data Analyst"
+
+
+  showSkills = true
+
+  sections = [ "experience",  "education",  "skills"]
+[params.skills]
+  enable = true
+  title = "Skills"
+[[params.skills.list]]
+  title = "Programming Languages"
+  description = "Python, Go, SQL, TypeScript,, JavaScript,   R, CMD Line"
+[[params.skills.list]]
+  title = "Web Development"
+  description = "React, Hugo, Node.js"
+[[params.skills.list]]
+  title = "Databases"
+  description = "MicrosoftSQL, PostgreSQL, Milvus, SQLite, Elasticsearch"
+[[params.skills.list]]
+  title = "Tools"
+  description = "Git, Docker, Tableau, Power BI"
+[[params.skills.list]]
+  title = "Cloud"
+  description = "Google Cloud Platform, Azure, Box Cloud Storage"
+[[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 1
+[[menu.main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 2
+[[menu.main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 3
+[[menu.main]]
+  name = "Education"
+  url = "#education"
+  weight = 4
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 5

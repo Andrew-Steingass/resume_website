@@ -1,0 +1,25 @@
+{
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "JavaScript", "TypeScript", "Go"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": ["React", "Hugo", "Node.js"]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": ["PostgreSQL", "Milvus", "SQLite", "Elasticsearch"]
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "keywords": ["Git", "Docker", "Kubernetes", "Jenkins"]
+    }
+  ]
+}
+
