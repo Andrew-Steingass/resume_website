@@ -16,6 +16,43 @@ theme = "resume"
   extraInfo = "Data Engineer | Data Scientist | Data Architect | Data Analyst"
   showSkills = true
   sections = [ "experience",  "education",  "skills"]
+  
+[params.skill_icons]
+  python = "icons/python.png"
+  javascript = "icons/javascript.png"
+  go = "icons/go.png"
+  sql = "icons/sql.png"
+  typescript = "icons/typescript.png"
+  r = "icons/r.png"
+  react = "icons/react.png"
+  hugo = "icons/hugo.png"
+  "node.js" = "icons/nodejs.png"
+  powershell = "icons/powershell.png"
+  json = "icons/json.png"
+  postgresql = "icons/postgres.png"
+  "Microsoft SQL Server" = "icons/microsoftsql.jpg"
+  mysql = "icons/mysql.jpg"
+  sqlite = "icons/sqlite.jpg"
+  milvus = "icons/milvus.jpg"
+  elasticsearch = "icons/elasticsearch.png"
+  "Google Cloud Platform (GCP)" = "icons/gcp.png"
+  "Microsoft Azure" = "icons/azure.jpg"
+  "Box Storage" = "icons/box.png"
+  docker = "icons/docker.jpg"
+  "azure devops" = "icons/azuredevops.jpg"
+  "restful apis" = "icons/restfulapi.png"
+  "google apis" = "icons/google.jpg"
+  "close.io apis" = "icons/closeio.png"
+  "box apis" = "icons/box.png"
+  zapier = "icons/zapier.png"
+  "power bi" = "icons/powerbi.jpg"
+  tableau = "icons/tableau.png"
+  agile = "icons/agile.png"
+  trello = "icons/trello.jpg"
+  "microsoft excel" = "icons/excel.jpg"
+  word = "icons/word.jpg"
+  powerpoint = "icons/powerpoint.jpg"
+
 
 [params.skills]
   enable = true
@@ -23,23 +60,43 @@ theme = "resume"
 
 [[params.skills.list]]
   title = "Programming Languages"
-  description = "Python, Go, SQL, TypeScript, JavaScript, R, CMD Line"
+  description = "Python, SQL, Go, TypeScript, R, JavaScript"
 
 [[params.skills.list]]
   title = "Web Development"
   description = "React, Hugo, Node.js"
 
 [[params.skills.list]]
+  title = "Scripting & Markup Languages"
+  description = "PowerShell, JSON"
+
+[[params.skills.list]]
   title = "Databases"
-  description = "MicrosoftSQL, PostgreSQL, Milvus, SQLite, Elasticsearch"
+  description = "PostgreSQL, Microsoft SQL Server, MySQL, SQLite, Milvus, ElasticSearch"
 
 [[params.skills.list]]
-  title = "Tools"
-  description = "Git, Docker, Tableau, Power BI"
+  title = "Cloud Platforms & Services"
+  description = "Google Cloud Platform (GCP), Microsoft Azure, Box Storage"
 
 [[params.skills.list]]
-  title = "Cloud"
-  description = "Google Cloud Platform, Azure, Box Cloud Storage"
+  title = "DevOps & Containerization"
+  description = "Docker, Azure DevOps"
+
+[[params.skills.list]]
+  title = "APIs & Integrations"
+  description = "RESTful APIs, Google APIs, Close.io APIs, Box APIs, Zapier"
+
+[[params.skills.list]]
+  title = "Business Intelligence"
+  description = "Tableau, Power BI"
+
+[[params.skills.list]]
+  title = "Project Management"
+  description = "Agile, Trello"
+
+[[params.skills.list]]
+  title = "Software Proficiency"
+  description = "Microsoft Excel, Word, PowerPoint"
 
 [[menu.main]]
   name = "About"

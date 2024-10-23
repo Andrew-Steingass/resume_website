@@ -6,14 +6,14 @@
     <description>Recent content on Andy Steingass | Developer &amp; Architect</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/resume_website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skills</title>
       <link>http://localhost:1313/resume_website/skills/</link>
-      <pubDate>Fri, 04 Oct 2024 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume_website/skills/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: Python, JavaScript, TypeScript, Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web Development&lt;/strong&gt;: React, Hugo, Node.js&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases&lt;/strong&gt;: PostgreSQL, Milvus, SQLite, Elasticsearch&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Git, Docker, Kubernetes, Jenkins&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: Python, SQL, Go, TypeScript, R, C#, JavaScript&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web Development&lt;/strong&gt;: React, Hugo, Node.js&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scripting &amp;amp; Markup Languages&lt;/strong&gt;: Shell Scripting (Command Line), JSON&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases&lt;/strong&gt;: PostgreSQL, Microsoft SQL Server, MySQL, SQLite, Milvus, ElasticSearch&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cloud Platforms &amp;amp; Services&lt;/strong&gt;: Google Cloud Platform (GCP), Microsoft Azure (Servers, DevOps, Key Vault), Box Storage&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DevOps &amp;amp; Containerization&lt;/strong&gt;: Docker, Azure DevOps&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;APIs &amp;amp; Integrations&lt;/strong&gt;: RESTful APIs, Google APIs, Close.io APIs, Box APIs, Zapier&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Business Intelligence&lt;/strong&gt;: Tableau, Power BI&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Project Management&lt;/strong&gt;: Agile Methodology, Trello&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Software Proficiency&lt;/strong&gt;: Microsoft Excel (Expert), Word, PowerPoint&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
