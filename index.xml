@@ -1,6 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy Steingass | Developer &amp; Architect</title><link>https://andrew-steingass.github.io/resume_website/</link><description>Recent content on Andy Steingass | Developer &amp; Architect</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://andrew-steingass.github.io/resume_website/index.xml" rel="self" type="application/rss+xml"/><item><title>Skills</title><link>https://andrew-steingass.github.io/resume_website/skills/</link><pubDate>Fri, 04 Oct 2024 12:00:00 +0000</pubDate><guid>https://andrew-steingass.github.io/resume_website/skills/</guid><description>&lt;ul>
-&lt;li>&lt;strong>Programming Languages&lt;/strong>: Python, JavaScript, TypeScript, Go&lt;/li>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andy Steingass | Developer &amp; Architect</title><link>https://andrew-steingass.github.io/resume_website/</link><description>Recent content on Andy Steingass | Developer &amp; Architect</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://andrew-steingass.github.io/resume_website/index.xml" rel="self" type="application/rss+xml"/><item><title>Skills</title><link>https://andrew-steingass.github.io/resume_website/skills/</link><pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate><guid>https://andrew-steingass.github.io/resume_website/skills/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Programming Languages&lt;/strong>: Python, SQL, Go, TypeScript, R, C#, JavaScript&lt;/li>
 &lt;li>&lt;strong>Web Development&lt;/strong>: React, Hugo, Node.js&lt;/li>
-&lt;li>&lt;strong>Databases&lt;/strong>: PostgreSQL, Milvus, SQLite, Elasticsearch&lt;/li>
-&lt;li>&lt;strong>Tools&lt;/strong>: Git, Docker, Kubernetes, Jenkins&lt;/li>
+&lt;li>&lt;strong>Scripting &amp;amp; Markup Languages&lt;/strong>: Shell Scripting (Command Line), JSON&lt;/li>
+&lt;li>&lt;strong>Databases&lt;/strong>: PostgreSQL, Microsoft SQL Server, MySQL, SQLite, Milvus, ElasticSearch&lt;/li>
+&lt;li>&lt;strong>Cloud Platforms &amp;amp; Services&lt;/strong>: Google Cloud Platform (GCP), Microsoft Azure (Servers, DevOps, Key Vault), Box Storage&lt;/li>
+&lt;li>&lt;strong>DevOps &amp;amp; Containerization&lt;/strong>: Docker, Azure DevOps&lt;/li>
+&lt;li>&lt;strong>APIs &amp;amp; Integrations&lt;/strong>: RESTful APIs, Google APIs, Close.io APIs, Box APIs, Zapier&lt;/li>
+&lt;li>&lt;strong>Business Intelligence&lt;/strong>: Tableau, Power BI&lt;/li>
+&lt;li>&lt;strong>Project Management&lt;/strong>: Agile Methodology, Trello&lt;/li>
+&lt;li>&lt;strong>Software Proficiency&lt;/strong>: Microsoft Excel (Expert), Word, PowerPoint&lt;/li>
 &lt;/ul></description></item></channel></rss>
